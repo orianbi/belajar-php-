@@ -1,2 +1,2 @@
 var a = 1
-var b = 4
+var b = 6
